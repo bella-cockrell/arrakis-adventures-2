@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 
-import logo from './img/logo-white.png'
+import logo from './img/logo-blue.png'
 
 function App() {
   return (
@@ -12,11 +12,13 @@ function App() {
         </div>
         <div className="text-box">
           <h1 className="heading-primary">
-            <span className="heading-primary_main">Outdoors</span>
-            <span className="heading-primary_sub">is where life happens</span>
+            <span className="heading-primary_main">Arrakis Adventures</span>
+            <span className="heading-primary_sub">
+              where the water is scarce but the fun is unlimited
+            </span>
           </h1>
-          <a href="#tours" className="btn btn-white">
-            Discover our tours
+          <a href="#tours" className="btn btn-white btn-animated">
+            Book a holiday today
           </a>
         </div>
       </header>
