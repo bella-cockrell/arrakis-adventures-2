@@ -14,7 +14,7 @@ function App() {
           <h1 className="heading-primary">
             <span className="heading-primary_main">Arrakis Adventures</span>
             <span className="heading-primary_sub">
-              where the water is scarce but the fun is unlimited
+              where the water is scarce <br/>but the fun is plenty
             </span>
           </h1>
           <a href="#tours" className="btn btn-white btn-animated">
